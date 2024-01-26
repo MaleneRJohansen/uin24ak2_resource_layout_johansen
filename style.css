@@ -10,13 +10,13 @@ nav {
     place-content: space-evenly;
 }
 
-article h2 {
+#content h2 {
     display: flex;
     background-color: #2A324B;
     padding: 2rem 3rem;
 }
 
-article a {
+#content a {
     text-decoration: none;
     color: #fff;
 }
