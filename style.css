@@ -28,6 +28,7 @@ nav h2 a {
 main {
     display: flex;
     background-color: #FFF;
+    padding: 0rem 0rem 2rem 0rem;
 }
 
 #content {
