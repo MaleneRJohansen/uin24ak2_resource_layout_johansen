@@ -3,7 +3,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #E1E5EE;
-    margin: 17rem;
+    margin: 6rem 11rem;
 }
 
 nav {
@@ -13,8 +13,9 @@ nav {
 
 nav h2 {
     background-color: #2A324B;
-    padding: 2rem 3rem;
+    padding: 1rem 2.5em;
     margin: 0rem;
+    font-size: 1em;
 }
 
 nav h2 a {
