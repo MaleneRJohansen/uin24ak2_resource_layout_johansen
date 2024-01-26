@@ -3,20 +3,40 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #E1E5EE;
+    margin: 17rem;
 }
 
 nav {
     display: flex;
-    place-content: space-evenly;
+    place-content: space-between;
+}
+
+nav h2 {
+    background-color: #2A324B;
+    padding: 2rem 3rem;
+    margin: 0rem;
+}
+
+nav h2 a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    display: flex;
+    background-color: #FFF;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem;
 }
 
 #content h2 {
-    display: flex;
-    background-color: #2A324B;
-    padding: 2rem 3rem;
+    color: #2A324B;
 }
 
 #content a {
-    text-decoration: none;
-    color: #fff;
+    color: #58699D;
 }
